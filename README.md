@@ -1,16 +1,62 @@
-## Hi there 👋
+## 👋 Hello there!
+I am **Asterinos**, an undergraduate student in Electrical and Computer Engineering.  
+This is my online portfolio, showcasing projects I have worked on throughout my academic career.
 
-<!--
-**Asterinos1/Asterinos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Followers](https://img.shields.io/github/followers/Asterinos1?style=social) 
+![Contributions](https://img.shields.io/badge/Contributions-1234-brightgreen)
 
-Here are some ideas to get you started:
+## Technologies I have worked with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:**  
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat&logo=assembly&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+
+- **Tools & Frameworks:** 
+
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
+![Keycloak](https://img.shields.io/badge/-Keycloak-772953?style=flat&logo=keycloak&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+
+- **IDEs:**  
+
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+
+- **Graphics / Game Engines:**  
+
+![Unity](https://img.shields.io/badge/-Unity-100000?style=flat&logo=unity&logoColor=white)
+
+- **Operating Systems:**  
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+
+##  Connect with me
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karalhs.as@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asterinos-karalis-8607b82a8) 
+
+
+## 📊 GitHub Stats
+
+<!-- Main Stats and Top Languages -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Asterinos1&show_icons=true&theme=default) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asterinos1&layout=compact)
+
+
+
+
