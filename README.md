@@ -25,7 +25,7 @@ This is my online portfolio, showcasing projects I have worked on throughout my 
 
 - **Operating Systems:**  
 
-    ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+    ![Ubuntu](https://img.shields.io/badge/-Linux%20Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 
 ##  Connect with me
