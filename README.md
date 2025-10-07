@@ -2,8 +2,6 @@
 I am **Asterinos**, an undergraduate student in Electrical and Computer Engineering.  
 This is my online portfolio, showcasing projects I have worked on throughout my academic career.
 
-![Followers](https://img.shields.io/github/followers/Asterinos1?style=social) 
-![Contributions](https://img.shields.io/badge/Contributions-1234-brightgreen)
 
 ## Technologies I have worked with
 
