@@ -21,14 +21,3 @@ This is my online portfolio, showcasing projects I have worked on throughout my 
 ##  Connect with me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karalhs.as@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asterinos-karalis-8607b82a8) 
-
-
-## 📊 GitHub Stats
-
-<!-- Main Stats and Top Languages -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Asterinos1&show_icons=true&theme=default) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asterinos1&layout=compact)
-
-
-
-
