@@ -1,5 +1,5 @@
 ## 👋 Hello there!
-I am **Asterinos**, an undergraduate student in Electrical and Computer Engineering.  
+I am **Asterinos**, an undergraduate student in ECE Department at TUC.  
 This is my online portfolio, showcasing projects I have worked on throughout my academic career.
 
 
