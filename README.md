@@ -1,7 +1,5 @@
 ## 👋 Hello there!
-I am Asterinos, an undergraduate student in ECE Department at TUC.  
-This is my online portfolio, showcasing projects I have worked on throughout my academic career.
-
+I am Asterinos, an undergraduate student in ECE Department at TUC. 
 
 ### Technologies I have worked with
 #### Programming Languages
